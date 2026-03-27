@@ -89,6 +89,7 @@ aside{
 }
 section{
 	flex-basis: 75%;
+	min-width: 0;
 	& img{
 		float: right;
 	}
